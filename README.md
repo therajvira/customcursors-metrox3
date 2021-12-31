@@ -1,7 +1,7 @@
-## Custom Cursors - metrox3
+# Custom Cursors - metrox3
 Install this Custom Cursors for your Windows OS. Source: https://www.deviantart.com/exsess/art/Metro-X3-Cursors-Update-Two-411020859
 
-# Install
+## Install
 - Right click on a .inf file located in any one of the folders (ex: Bold->Crimson->Install.inf)*
 - Select install
 - Open Mouse Properties in the Control Panel and go to the pointers tab
@@ -13,7 +13,7 @@ Install this Custom Cursors for your Windows OS. Source: https://www.deviantart.
 **The fps in the mouse properties' preview is much slower/choppier than its actual speed.
 
 
-# Uninstall
+## Uninstall
 - Open Mouse Properties in the Control Panel and go to the pointers tab
 - Select the set you want to remove
 - Select "Delete" next to the "Save as" button
