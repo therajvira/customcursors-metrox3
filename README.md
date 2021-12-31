@@ -1,5 +1,5 @@
 # Custom Cursors - metrox3
-Install this Custom Cursors for your Windows OS. Source: https://www.deviantart.com/exsess/art/Metro-X3-Cursors-Update-Two-411020859
+Install this Custom Cursors for your Windows OS.
 
 ## Install
 - Right click on a .inf file located in any one of the folders (ex: Bold->Crimson->Install.inf)*
@@ -28,3 +28,5 @@ Install this Custom Cursors for your Windows OS. Source: https://www.deviantart.
 - Select "Delete" next to the "Save as" button
 - Hit apply, then okay
 - Navigate to (default) C:/Windows/Cursors/Metro X3 by exsess and delete the cursor set's folder you want to remove
+
+Source: https://www.deviantart.com/exsess/art/Metro-X3-Cursors-Update-Two-411020859
