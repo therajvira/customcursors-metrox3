@@ -5,11 +5,16 @@ Install this Custom Cursors for your Windows OS. Source: https://www.deviantart.
 - Right click on a .inf file located in any one of the folders (ex: Bold->Crimson->Install.inf)*
 - Select install
 
-![image](https://user-images.githubusercontent.com/88835021/147829617-2b742282-364e-4903-8ec1-e60c7ec8ca65.png)
+![image](https://user-images.githubusercontent.com/88835021/147829706-163f1c6f-a276-4a0e-ba39-b6540615f281.png)
 
+- Write control mouse in the run box to open the mouse control panel
 
-- Open Mouse Properties in the Control Panel and go to the pointers tab
+![image](https://user-images.githubusercontent.com/88835021/147829754-e47a4fcd-9f29-4e48-b623-ecfe13f6bb71.png)
+
 - Find the Metro X3 cursors (ex: "Metro X3 Bold-Crimson") in the drop down and select it**
+
+![image](https://user-images.githubusercontent.com/88835021/147829786-8e9da398-0524-4819-9828-6c71ff4c7785.png)
+
 - Hit apply, then okay
 - Leave a comment and enjoy!
 
